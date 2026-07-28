@@ -29,7 +29,7 @@ how to install Robot Operating System
 
 ##  2. Challenges & Troubleshooting
 
-* **Issue 3: Missing Environment File Warning**
+* **Issue : Missing Environment File Warning**
   * **Cause:** Attempting to source the ROS setup script before completing the package installation.
   * **Solution:** Completed the full `ros-humble-desktop` package installation before sourcing the environment.
 
